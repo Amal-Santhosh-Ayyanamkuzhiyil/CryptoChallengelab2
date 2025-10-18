@@ -1,6 +1,10 @@
 # CryptoChallengelab2
 Secure Communications and Cryptography Challenge Lab 2
 
+This is the group assignment suplementary code
+
+A00047293@myTUDublin.ie – Amal Santhosh, A00046725@myTUDublin.ie – Warana Dissanayaka and – A00046884@myTUDublin.ie - Nikil Jacob
+
 ## Table of Contents  
 - [Overview](#overview)  
 - [Challenge Description](#challenge‐description)  
