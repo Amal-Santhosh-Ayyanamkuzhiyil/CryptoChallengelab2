@@ -21,8 +21,6 @@ This implementation (in `challengelab2.py`) performs the essential functions req
 ---
 
 ## Repository Structure  
-/
-├── README.md ← this file
 ├── challengelab2.py ← main Python script for the lab
 └── Input/ ← (optional) directory for input files
 └── Results/ ← (optional) directory for output files
