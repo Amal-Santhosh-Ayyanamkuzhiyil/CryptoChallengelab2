@@ -24,6 +24,7 @@ This implementation (in `challengelab2.py`) performs the essential functions req
 ├── challengelab2.py ← main Python script for the lab
 └── Input/ ← (optional) directory for input files
 └── Results/ ← (optional) directory for output files
+└── …
 
 - **challengelab2.py**: The core script where the challenge logic resides.  
 - **Input/**: (Optional) Directory containing input files.
